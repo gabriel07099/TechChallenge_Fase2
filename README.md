@@ -2,9 +2,13 @@
 
 Grupo:
     Armando Caliari Silva - rm372117
+   
     Caike Herbe Jauch Soares - rm371123
+    
     Gabriel Santos de Oliveira Arruda - rm371178
+    
     Gustavo Ferreira da Silva Santana -rm370545
+    
     Kauan Lucas Gomes Jardim - rm370438
 
 ## Objetivo
